@@ -1,5 +1,5 @@
 # JavaScript-Game-Dev-Tutorials
-<i>Game Dev in JS</i>
+Game Dev in JS
 
 
 JavaScript Game Dev Tutorials from yt
