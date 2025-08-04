@@ -1,4 +1,4 @@
-<h1># JavaScript-Game-Dev-Tutorials<h1>
+# JavaScript-Game-Dev-Tutorials
 <i>Game Dev in JS</i>
 
 
